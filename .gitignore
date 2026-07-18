@@ -1,0 +1,5 @@
+.env
+data/
+*.zip
+*.csv
+Lendo_arquivos.ipynb
